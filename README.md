@@ -2,6 +2,10 @@
 
 A machine learning application that predicts customer churn using a classical ML classification pipeline, served through a **FastAPI backend** and an interactive **Streamlit UI**.
 
+## Application Preview
+
+![Telco Churn Prediction App](images/CHURN_UI.jpg)
+
 ## Overview
 
 Customer churn occurs when customers discontinue a company's services. Identifying customers who are likely to churn helps businesses develop targeted retention strategies and improve customer relationships.
