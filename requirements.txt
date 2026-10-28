@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+joblib
+fastapi
+uvicorn
+streamlit
+requests
+joblib
+matplotlib
+pathlib
+seaborn
+statsmodels
